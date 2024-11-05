@@ -1,3 +1,4 @@
+<div align="center">
 # Hi there 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dezvoltabehroz&color=brightgreen)
@@ -6,6 +7,8 @@
 [![Bold Pro](https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=person&logoColor=white)](https://bold.pro/my/behroz-ahmed-241030135028)
 
 ![Developer Banner](https://camo.githubusercontent.com/7f8bb3190999081788a39ae09c4d161f9d67f450c6e8b7ab2104888a80083609/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)
+
+</div>
 
 ## 👨‍💻 About Me:
 Experienced Software Engineer with over 9+ years of hands-on expertise in JavaScript and full-stack development, specializing in building scalable mobile and web applications. Proficient in delivering end-to-end solutions with a strong foundation in both frontend and backend technologies. Known for writing clean, maintainable code and implementing efficient debugging strategies, I have successfully delivered impactful projects across various industries.
