@@ -3,7 +3,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dezvoltabehroz&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behrozahmed/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01649ef45ea6dda835)
 [![Bold Pro](https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=person&logoColor=white)](https://bold.pro/my/behroz-ahmed-241030135028)
 
 ![Developer Banner](https://camo.githubusercontent.com/7f8bb3190999081788a39ae09c4d161f9d67f450c6e8b7ab2104888a80083609/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)
