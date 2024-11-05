@@ -8,7 +8,11 @@
 ![Developer Banner](https://camo.githubusercontent.com/7f8bb3190999081788a39ae09c4d161f9d67f450c6e8b7ab2104888a80083609/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)
 
 ## 👨‍💻 About Me:
-I am a JavaScript Developer specializing in providing trustworthy and reliable services for mobile app and web development needs. With extensive experience, I deliver impactful solutions by contributing to both frontend and backend development for building web applications.
+Experienced Software Engineer with over 9+ years of hands-on expertise in JavaScript and full-stack development, specializing in building scalable mobile and web applications. Proficient in delivering end-to-end solutions with a strong foundation in both frontend and backend technologies. Known for writing clean, maintainable code and implementing efficient debugging strategies, I have successfully delivered impactful projects across various industries.
+
+My expertise extends to modern JavaScript frameworks and libraries, enabling me to create robust, user-centric applications. With a proven track record of collaborating in agile teams, I excel at bridging communication between technical and non-technical stakeholders. My strengths include problem-solving, adaptability, and a commitment to continuous learning, ensuring I stay current with industry best practices and emerging technologies.
+
+Passionate about clean architecture and code quality, I focus on building trustworthy and reliable solutions that drive business value. Whether it's optimizing existing applications or developing new features, I am dedicated to delivering high-performance, scalable solutions that meet and exceed client expectations.
 
 ## 🛠️ Languages and Tools:
 <p align="left">
