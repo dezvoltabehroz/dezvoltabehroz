@@ -35,7 +35,6 @@ Passionate about clean architecture and code quality, I focus on building trustw
 
 ## 📫 How to reach me:
 - Website: [Personal Website](https://bold.pro/my/behroz-ahmed-241030135028)
-- Upwork: [Upwork Profile](https://www.upwork.com/freelancers/~01649ef45ea6dda835)
 - LinkedIn: [Linkedin-profile](https://www.linkedin.com/in/behrozahmed/)
 
 ---
