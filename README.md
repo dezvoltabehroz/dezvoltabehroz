@@ -39,9 +39,9 @@ Passionate about clean architecture and code quality, I focus on building trustw
 ![](https://github-profile-trophy.vercel.app/?username=dezvoltabehroz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📫 How to reach me:
-- Website: [your-website-url](your-website-url)
-- Upwork: [your-upwork-profile](your-upwork-profile-url)
-- LinkedIn: [your-linkedin-profile](your-linkedin-profile-url)
+- Website: [Personal Website]([your-website-url](https://bold.pro/my/behroz-ahmed-241030135028))
+- Upwork: [Upwork Profile](https://www.upwork.com/freelancers/~01649ef45ea6dda835)
+- LinkedIn: [Linkedin-profile](https://www.linkedin.com/in/behrozahmed/)
 
 ---
 ⭐️ From [dezvoltabehroz](https://github.com/dezvoltabehroz)
