@@ -1,5 +1,5 @@
 <div align="center">
-# Hi there 👋
+<h1 style="font-size: 40px;">Hi there 👋</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dezvoltabehroz&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behrozahmed/)
