@@ -10,7 +10,7 @@
 </div>
 
 ## 👨‍💻 About Me:
-Experienced Software Engineer with over 9+ years of hands-on expertise in JavaScript and full-stack development, specializing in building scalable mobile and web applications. Proficient in delivering end-to-end solutions with a strong foundation in both frontend and backend technologies. Known for writing clean, maintainable code and implementing efficient debugging strategies, I have successfully delivered impactful projects across various industries.
+Experienced Software Engineer with over 10+ years of hands-on expertise in JavaScript and full-stack development, specializing in building scalable mobile and web applications. Proficient in delivering end-to-end solutions with a strong foundation in both frontend and backend technologies. Known for writing clean, maintainable code and implementing efficient debugging strategies, I have successfully delivered impactful projects across various industries.
 
 My expertise extends to modern JavaScript frameworks and libraries, enabling me to create robust, user-centric applications. With a proven track record of collaborating in agile teams, I excel at bridging communication between technical and non-technical stakeholders. My strengths include problem-solving, adaptability, and a commitment to continuous learning, ensuring I stay current with industry best practices and emerging technologies.
 
