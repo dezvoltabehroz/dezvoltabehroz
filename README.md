@@ -147,13 +147,6 @@ I'm a **Solution Architect** and **Full-Stack Engineer** with **8+ years of expe
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dezvoltabehroz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezvoltabehroz&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
-
-<div align="center">
-  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dezvoltabehroz&theme=tokyonight)
   
 </div>
@@ -224,8 +217,6 @@ const expertise = {
 <div align="center">
   
   ### 💡 *"Building scalable solutions that drive business value through innovative technology"*
-  
-  ![Visitor Count](https://profile-counter.glitch.me/dezvoltabehroz/count.svg)
   
   ⭐️ From [Behroz Ahmed](https://github.com/dezvoltabehroz)
   
