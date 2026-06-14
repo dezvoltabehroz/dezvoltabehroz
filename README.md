@@ -190,9 +190,9 @@ Hybrid mobile app for abandoned-cart tracking and recovery, delivering personali
 | **Locopixel** | Software Engineer | Mar 2017 – Nov 2017 | Pakistan |
 | **CareCloud** | Jr. Software Engineer / Technical Support | Apr 2016 – Mar 2017 | Islamabad, Pakistan |
 | **QuellxCode** | Software Engineer | Apr 2016 – Mar 2017 | Islamabad, Pakistan |
-| **Skippy Apps** | Game Developer | Nov 2015 – Apr 2016 | Islamabad, Pakistan |
-| **The Checkmake** | Web Developer | Jun 2014 – Dec 2014 | Bahria Town, Pakistan |
-| **Whizpool** | Web Developer | Jun 2012 – Aug 2013 | Islamabad, Pakistan |
+| **Skippy Apps** | Intern Game Developer | Nov 2015 – Apr 2016 | Islamabad, Pakistan |
+| **The Checkmake** | Freelance Web Developer | Jun 2014 – Dec 2014 | Bahria Town, Pakistan |
+| **Whizpool** | Intern Web Developer | Jun 2012 – Aug 2013 | Islamabad, Pakistan |
 
 ---
 
