@@ -247,7 +247,7 @@ Solution Architecture · Event-Driven & Microservices Design · API Development 
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dezvoltabehroz&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=dezvoltabehroz&theme=tokyonight)
 
 </div>
 
